@@ -1,3 +1,3 @@
-## Решение задачи Kaggle про Титаник.
-  - Одна из первых задач решенная мной с помощью pandas и других библиотек подтолкнувшая к изучению аналитики в целом.
-  - Решалась несколько лет назад, так что скилл заметно вырос:)
+## Kaggle challenge Titanic Disaster
+  - One of the first challenge I solved with the help of pandas and other data libraries. Pushed me to study analytics in general.
+  - Was solved a few years ago, so the skill has grown noticeably:)
